@@ -1,4 +1,4 @@
-# Link2Apk
+# X
 A simple app generator for links using Github Actions
 
 # Instructions:
